@@ -98,7 +98,8 @@ streamlit run app.py
 
 * Add movie posters using TMDB API
 * Improve similarity using word embeddings (Word2Vec / BERT)
-* Deploy live version using Streamlit Cloud
+* ✅ Deploy live version — Already deployed!
+
 * Add search autocomplete
 
 ---
