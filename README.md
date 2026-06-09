@@ -1,6 +1,7 @@
 # 🎬 Movie Recommendation System
 
 A **content-based movie recommender system** that suggests similar movies based on genre, plot, and keywords using **TF-IDF vectorization and cosine similarity**.
+<img width="1064" height="558" alt="Screenshot 2026-06-09 at 04 00 34" src="https://github.com/user-attachments/assets/be014798-c7fb-400b-9564-16eee5222f0c" />
 
 ---
 
