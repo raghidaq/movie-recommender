@@ -2,7 +2,7 @@
 🌐 **Live Demo:** [Click here to try it!](https://movie-recommender-hkdvv7mtndz6buduuahsdm.streamlit.app)
 
 A **content-based movie recommender system** that suggests similar movies based on genre, plot, and keywords using **TF-IDF vectorization and cosine similarity**.
-<img width="1064" height="558" alt="Screenshot 2026-06-09 at 04 00 34" src="https://github.com/user-attachments/assets/32d92327-304f-4ac1-aeaa-be921c8dcb03" />
+
 <img width="1084" height="612" alt="Screenshot 2026-06-09 at 04 27 36" src="https://github.com/user-attachments/assets/c7fe285e-ffec-4030-bc64-c5bcf3f80f1a" />
 
 
